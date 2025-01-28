@@ -18,7 +18,7 @@
     <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-DeepSeek%20AI-ffc107?color=ffc107&logoColor=white" />
   </a>
 
-</div>
+</div> 
 
 <div align="center">
 
